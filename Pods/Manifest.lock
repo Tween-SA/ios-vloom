@@ -1,0 +1,99 @@
+PODS:
+  - AFNetworkActivityLogger (2.0.3):
+    - AFNetworking/NSURLConnection (~> 2.0)
+    - AFNetworking/NSURLSession (~> 2.0)
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BrightFutures (3.2.0):
+    - Result (= 1.0.0)
+  - CrittercismSDK (5.5.5)
+  - GGLInstanceID (1.1.6)
+  - Google/Analytics (2.0.3):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/CloudMessaging (2.0.3):
+    - GGLInstanceID (~> 1.0)
+    - Google/Core
+    - GoogleCloudMessaging (~> 1.0)
+  - Google/Core (2.0.3):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.1)
+  - GoogleAnalytics (3.14.0)
+  - GoogleCloudMessaging (1.2.0):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleIPhoneUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleInterchangeUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleIPhoneUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleNetworkingUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.0)
+  - GoogleUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - ImageLoader (0.8.9)
+  - libPhoneNumber-iOS (0.8.10)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core (= 2.2)
+  - MagicalRecord/Core (2.2)
+  - MBProgressHUD (0.9.2)
+  - Result (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworkActivityLogger (= 2.0.3)
+  - AFNetworking (= 2.5.0)
+  - BrightFutures (= 3.2.0)
+  - CrittercismSDK
+  - Google/Analytics
+  - Google/CloudMessaging
+  - ImageLoader
+  - libPhoneNumber-iOS (= 0.8.10)
+  - MagicalRecord (= 2.2)
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworkActivityLogger: e82c9ba285b37042d86729bff5b14036c4312cd7
+  AFNetworking: 96ac9bf3eda33582701cb1fcc5b896aa1e20311e
+  BrightFutures: 894dcfc04059093b5477c2197ed4c0fb4ad07180
+  CrittercismSDK: 70f261913b23c5018f7e695d8abe287ee7061ad2
+  GGLInstanceID: f92465924a9b8a48f712829d22e223653ab8dc72
+  Google: 61379f0072bc561a7e174d23a6cbe41bd6d8599c
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleCloudMessaging: f37ea14dd0f41d4d889c10b5559dd35bbfd9ac26
+  GoogleInterchangeUtilities: 427382e42d8a340038bec37c6fdfd316e14b5fa2
+  GoogleIPhoneUtilities: 1c2996078f079d2fc54453dbd13eaf5523666550
+  GoogleNetworkingUtilities: ec1e9911aca811eb18b7144394fee6168b607785
+  GoogleSymbolUtilities: eb3965ea12710569c7b80db198a39e39b18613f7
+  GoogleUtilities: 85f8ad6b251544286a97163133d042ec95f889c5
+  ImageLoader: 7a26b4e248aa4cae7df322449ddb109bcfba9f09
+  libPhoneNumber-iOS: 7bfd00f843fdcd82b5182b463e8eb3b27579f41d
+  MagicalRecord: 2dc87179ae7c1f2a274442624ec65a07d4357a6f
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  Result: feaaff535eb59c414c6c7f95e6145ab991b1b07f
+
+PODFILE CHECKSUM: 949ac0eb70bc17211579762131031936154eb241
+
+COCOAPODS: 1.0.1

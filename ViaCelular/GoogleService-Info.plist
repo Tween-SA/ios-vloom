@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TRACKING_ID</key>
+	<string>UA-71371638-1</string>
+	<key>CLIENT_ID</key>
+	<string>189459365557-8n0ub42qr96njac6l39vqr4liq5an60r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189459365557-8n0ub42qr96njac6l39vqr4liq5an60r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxS7HFBquYYVs-C-CbZ5VuA0Xk14FqTec</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189459365557</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tween.vloom</string>
+	<key>PROJECT_ID</key>
+	<string>tween-viacelular</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tween-viacelular.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189459365557:ios:f48d6be4fe5939d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://tween-viacelular.firebaseio.com</string>
+</dict>
+</plist>
